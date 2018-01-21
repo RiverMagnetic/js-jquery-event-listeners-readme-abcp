@@ -14,6 +14,6 @@ function getIt(){
 
 function frameIt(){
   $('img').on("load", function(){
-   element.addClass("name of class")
+   'img'.addClass("name of class")
 });
 }

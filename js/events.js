@@ -7,7 +7,7 @@ $(document).ready(function(){
 });
 
 function getIt(){
-  $('p').on("eventname", function(){
+  $('p').on("click", function(){
     //action you want taken
 });
 }
